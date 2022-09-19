@@ -1,0 +1,36 @@
+commit babc5521d12d807bac2fdf3a45f7157420fbebb9 (HEAD -> main, origin/main, origin/HEAD)
+Author: Afermor8 <ara.fer.mor@gmail.com>
+Date:   Mon Sep 19 14:23:47 2022 +0200
+
+    He copiado en un fichero el contenido de .git/config
+
+commit 7cc3e091cb2c047fa01716877957ba059cc83a9d
+Author: Afermor8 <ara.fer.mor@gmail.com>
+Date:   Mon Sep 19 12:00:51 2022 +0200
+
+    He borrado el fichero ejemplo2
+
+commit 5d3058e528b241d0425dfa74be573805a809be52
+Author: Afermor8 <ara.fer.mor@gmail.com>
+Date:   Mon Sep 19 11:59:58 2022 +0200
+
+    He cambiado el nombre del fichero
+
+commit d2da5597f68fc32763647e03e3b5b97de7d0c19d
+Author: Afermor8 <ara.fer.mor@gmail.com>
+Date:   Mon Sep 19 10:35:46 2022 +0200
+
+    He modificado el fichero ejemplo.txt
+
+commit 8464596cf44b2a5c27858d6adb65763ac047e51e
+Author: Afermor8 <ara.fer.mor@gmail.com>
+Date:   Mon Sep 19 10:33:50 2022 +0200
+
+    He creado el fichero ejemplo.txt
+
+commit a39a8b71c953f9a07c714e7f0a18e16044d460d2
+Author: afermor8 <99648477+afermor8@users.noreply.github.com>
+Date:   Mon Sep 19 10:08:52 2022 +0200
+
+    Initial commit
+
